@@ -4,7 +4,7 @@ int main(void)
 {
   int ans, sum, range, check_even;
   int num[100] = {1,2};
-  int i, j, k;
+  int i, j;
 
   range = 4000000;
   ans = 0;
